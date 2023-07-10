@@ -1,0 +1,5 @@
+module github.com/thitisan21/assignment-go-sometime/app
+
+go 1.20
+
+require github.com/gorilla/mux v1.8.0
