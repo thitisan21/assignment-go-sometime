@@ -1,4 +1,4 @@
-module github.com/thitisan21/assignment-go-sometime/app
+module github.com/thitisan21/assignment-go-sometime
 
 go 1.20
 
